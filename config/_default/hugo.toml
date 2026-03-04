@@ -1,4 +1,4 @@
-title = "Python"
+title = ""
 baseurl = "http://localhost/"
 disableAliases = true
 disableHugoGeneratorInject = true

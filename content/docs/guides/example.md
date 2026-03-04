@@ -57,7 +57,7 @@ La programación se aprende practicando.
 
 Asegúrate de tener Python instalado en tu computadora y un editor de código listo para usar.
 
-Si aún no lo has hecho, revisa la sección de instalación antes de continuar.
+Si aún no lo has hecho, revisa la sección de [primeros pasos](primerosPasos) antes de continuar.
 
 ---
 
