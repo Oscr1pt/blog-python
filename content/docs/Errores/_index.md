@@ -1,11 +1,11 @@
 ---
-title: "El Manual De Python"
+title: "Manejo De Errores"
 description: "Explore step-by-step guides that walk you through common tasks, from setup to advanced workflows, helping you learn and use this project with confidence."
 summary: ""
-date: 2023-11-07T16:06:50+02:00
-lastmod: 2023-09-07T16:06:50+02:00
+date: 2023-08-02T16:06:50+02:00
+lastmod: 2023-08-07T16:06:50+02:00
 draft: false
-weight: 100
+weight: 500
 toc: true
 params:
   seo:

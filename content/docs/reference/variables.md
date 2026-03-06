@@ -2,8 +2,8 @@
 title: "Variables y tipos de datos"
 description: "Learn how to design concise, comprehensive reference pages that document concepts, options, and behavior clearly so users can quickly find exact answers."
 summary: ""
-date: 2023-09-11T16:13:18+02:00
-lastmod: 2023-09-11T16:13:18+02:00
+date: 2023-10-11T16:13:18+02:00
+lastmod: 2023-10-11T16:13:18+02:00
 draft: false
 weight: 910
 toc: true
