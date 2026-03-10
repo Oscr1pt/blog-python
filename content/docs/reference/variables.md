@@ -48,7 +48,7 @@ Son sensibles a mayúsculas y minúsculas (Edad ≠ edad)
 
 Python maneja varios tipos de datos básicos:
 
-1. Enteros (int)
+1. **Enteros (int)**
 
 Representan números sin decimales.
 
@@ -56,7 +56,7 @@ Representan números sin decimales.
 cantidad = 10
 ```
 
-2. Decimales (float)
+2. **Decimales (float)**
 
 Representan números con punto decimal.
 
@@ -64,7 +64,7 @@ Representan números con punto decimal.
 precio = 99.99
 ```
 
-3. Cadenas de texto (str)
+3. **Cadenas de texto (str)**
 
 Representan texto y se escriben entre comillas.
 
@@ -72,7 +72,7 @@ Representan texto y se escriben entre comillas.
 mensaje = "Hola Mundo"
 ```
 
-4.  Booleanos (bool)
+4.  **Booleanos (bool)**
 
 Representan valores lógicos: Verdadero o Falso.
 
@@ -95,6 +95,7 @@ print(type(edad))
 Python permite convertir un tipo de dato en otro:
 
 ```python
+#En este ejemplo cambiamos el string "10" al numero 10
 numero = "10"
 numero_entero = int(numero)
 ```
@@ -105,3 +106,17 @@ Algunas funciones de conversión comunes:
 - float() → convierte a decimal
 - str() → convierte a texto
 - bool() → convierte a booleano
+
+## Comentarios en Python
+
+Los **comentarios** en Python se utilizan para documentar el código. Esto ayuda a mantener el código más organizado y a facilitar su comprensión para cualquier persona que vaya a trabajar en él, e incluso para nosotros mismos.
+
+Para comentar, utilizamos el signo de número **#** delante de la oración. Al hacerlo, veremos cómo el texto cambia de color, ya que el editor de código ignora automáticamente esa línea.
+
+**Ejemplo:**
+
+```python
+#Este es un comentario
+hola = "hola"
+```
+

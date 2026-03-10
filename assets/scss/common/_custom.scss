@@ -1,1 +1,15 @@
-// Put your custom SCSS code here
+.card {
+  background: #161b22 !important;;
+  border: 2px solid #30363d !important;
+  border-radius: 10px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 10px 30px rgba(0,0,0,0.4) !important;
+}
+
+.card h4 {
+  color: #58a6ff;
+}
