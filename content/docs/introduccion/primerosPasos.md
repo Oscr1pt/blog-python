@@ -1,11 +1,11 @@
 ---
 title: "Primeros Pasos"
-description: "Learn how to structure clear, task-focused guides that walk users through real workflows step by step, improving documentation usability and success."
+description: "Aprende a instalar Python y ejecutar tu primer programa usando VS Code o PyCharm."
 summary: ""
 date: 2023-09-07T16:04:48+02:00
 lastmod: 2023-09-07T16:04:48+02:00
 draft: false
-weight: 810
+weight: 200
 toc: true
 params:
   math: false # enable mathematical rendering

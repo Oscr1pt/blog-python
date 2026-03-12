@@ -1,6 +1,6 @@
 ---
-title: "El Manual De Python"
-description: "Explore step-by-step guides that walk you through common tasks, from setup to advanced workflows, helping you learn and use this project with confidence."
+title: "Oh My Python"
+description: "Guía completa para aprender Python desde cero. Variables, funciones, estructuras de control y más."
 summary: ""
 date: 2023-11-07T16:06:50+02:00
 lastmod: 2023-09-07T16:06:50+02:00

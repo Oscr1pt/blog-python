@@ -1,11 +1,11 @@
 ---
 title: "Introducción"
-description: "Learn how to structure clear, task-focused guides that walk users through real workflows step by step, improving documentation usability and success."
+description: "Introducción a Oh My Python. Aprende qué encontrarás en esta guía y cómo utilizarla."
 summary: ""
 date: 2023-09-07T16:04:48+02:00
 lastmod: 2023-09-07T16:04:48+02:00
 draft: false
-weight: 810
+weight: 100
 toc: true
 params:
   math: false # enable mathematical rendering
@@ -16,7 +16,7 @@ params:
     robots: "" # custom robot tags (optional)
 ---
 
-# Bienvenido al Manual De Python
+# Bienvenido a Oh My Python!
 
 Esta documentación ha sido creada como una guía estructurada para acompañarte en el proceso de aprendizaje de Python desde cero.
 
