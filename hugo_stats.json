@@ -82,7 +82,7 @@
       "categories",
       "chroma",
       "col",
-      "col-12",
+      "col-4",
       "col-lg-10",
       "col-lg-12",
       "col-lg-16",
@@ -267,7 +267,6 @@
       "wrap"
     ],
     "ids": [
-      "-crear-un-diccionario",
       "TableOfContents",
       "acceder-a-los-valores",
       "acceso-a-caracteres-indexación",
