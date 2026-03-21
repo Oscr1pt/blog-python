@@ -65,7 +65,6 @@ Aquí se crea un objeto llamado persona1 basado en la clase Persona.
 - Facilita la reutilización del código
 
 - Mejora la organización del programa
-
-- Hace el código más fácil de entender y mantener
+e de entender y mantener
 
 La Programación Orientada a Objetos es una forma de estructurar programas utilizando clases y objetos. Este enfoque permite crear aplicaciones más organizadas, reutilizables y cercanas a la realidad, lo que facilita el desarrollo de software más complejo.

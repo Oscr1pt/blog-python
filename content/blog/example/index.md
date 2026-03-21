@@ -1,7 +1,7 @@
 ---
-title: " Post"
+title: "¿Qué encontrarás en esta Seccion?"
 description: "Learn how to write clear, structured product update posts that explain what changed, why it matters, and how users can successfully adopt new features."
-summary: "Use blog posts to communicate product updates and new features in a clear and consistent format."
+summary: "Posts utilies para la Creacion de herramientas, exploits y demas con Python."
 date: 2026-02-16T16:31:32+01:00
 lastmod: 2026-02-16T16:31:38+01:00
 draft: false
