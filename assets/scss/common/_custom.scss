@@ -21,9 +21,33 @@
 
 }
 
+.feature-card {
+  background: #0d1117 !important;
+  border: 1px solid #30363d !important;
+  border-radius: 12px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, border-color 0.2s ease;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+}
+
 .feature-card:hover {
   transform: translateY(-4px);
-  box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+  box-shadow: 0 8px 30px rgba(167, 139, 250, 0.15) !important;
+  border-color: #a78bfa !important; /* purple border on hover */
+}
+
+.feature-card h4 {
+  color: #a78bfa;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 0.8rem;
+}
+
+.feature-card p {
+  color: #7d8590;
+  font-size: 0.95rem;
+  font-family: 'Courier New', Courier, monospace;
+  margin-bottom: 0;
 }
 
 // Custom styles for contributors section
@@ -49,16 +73,16 @@
   pointer-events: none;
 }
 
-.contributors-title {
+.title {
   font-family: 'Courier New', Courier, monospace;
-  font-size: 3rem;
+  font-size: 2.5rem;
   color: #ff7be5;
   text-shadow: 0 0 8px rgba(255, 123, 229, 0.4);
   font-weight: bold;
   letter-spacing: 2px;
 }
 
-.contributors-subtitle {
+.subtitle {
   font-family: 'Courier New', Courier, monospace;
   color: #7d8590;
   font-size: 1.25rem;
